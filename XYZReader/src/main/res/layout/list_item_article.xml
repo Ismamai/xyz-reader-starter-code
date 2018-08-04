@@ -42,7 +42,7 @@
             android:paddingLeft="@dimen/article_subtittle_padding"
             android:paddingRight="@dimen/article_subtittle_padding"
             android:paddingBottom="@dimen/article_subtittle_padding"
-            android:textColor="#6000"
+            android:textColor="@color/subittle_color"
             android:maxLines="2"
             android:ellipsize="end" />
     </LinearLayout>
